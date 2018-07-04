@@ -1,0 +1,98 @@
+  body
+{
+    margin:0;
+    font-size:0.7vw;
+}
+
+a
+{
+    color:black !important;
+
+}
+
+#banner
+{
+margin-top:20px !important;
+	display:flex;
+  list-style-type:none;
+justify-content:space-around;
+margin-left: 83% !important;
+margin:0;
+padding: 0;
+}
+
+li
+{
+    display: inline;
+}
+
+#form
+{
+    width:20vw;
+    height:11vw;
+    margin: 0 auto;
+    margin-top:8.5vw;
+}
+
+#input
+{
+    width:30vw !important;
+    height:2.3vw;
+    margin-left:-8vw;
+    margin-top:1.5vw;
+}
+
+
+#search
+{
+    margin-top:1vw;
+    margin-left:0.5vw;
+    font-size:0.69vw;
+}
+
+#logo
+{
+	width:15vw;
+
+}
+
+#espace
+{
+   margin-right:40%;
+
+}
+
+ul
+{
+  list-style-type:none;
+  margin:0;
+  padding: 0;
+  overflow: hidden;
+}
+
+#country
+{
+    display:flex;
+    position: fixed;
+    width: 100%;
+    background-color:#DCDCDC;
+    bottom: 5%;
+}
+
+#connection
+{
+  color:white;
+    background:    -moz-linear-gradient(top,#4387fd,#4683ea)
+}
+
+#footer
+{
+   height:5%;
+   display:flex;
+   position: fixed;
+   width: 100%;
+   background-color:#DCDCDC;
+   bottom: 0;
+   align-items: center;
+   justify-content:space-around;
+}
